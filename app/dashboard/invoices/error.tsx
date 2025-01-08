@@ -12,7 +12,7 @@ const Error = ({
 
     useEffect(() => {
         console.log(error)
-    }, [])
+    }, [error])
 
 
     return (
